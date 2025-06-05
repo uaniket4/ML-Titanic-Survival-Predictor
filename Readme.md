@@ -48,6 +48,7 @@ If you want to run the app:
 ### 1. Clone the repo
 
 git clone https://github.com/uaniket4/ML-Titanic-Survival-Predictor.git
+
 cd ML-Titanic-Survival-Predictor
 
 ### 2. Install the dependencies
