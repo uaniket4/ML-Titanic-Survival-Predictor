@@ -1,6 +1,6 @@
 #  Titanic Survival Predictor
 
-Welcome to my beginner-friendly Machine Learning project where I built a model to predict which passengers survived the Titanic shipwreck 🧠✨
+Welcome to my beginner-friendly Machine Learning project where I built a model to predict which passengers survived the Titanic shipwreck 
 
 This was one of my **first ML projects** and a great way to explore the entire ML workflow — from cleaning messy data to deploying a simple web app using Streamlit!
 
@@ -34,11 +34,11 @@ It uses **Logistic Regression** for prediction, and I also experimented with Ran
 
 # What I Learned
 
-✅ Data cleaning and preprocessing using Pandas  
-✅ Handling missing values and encoding categories  
-✅ Training and testing ML models  
-✅ Evaluating model performance  
-✅ Deploying with **Streamlit** for a fun UI experience
+- Data cleaning and preprocessing using Pandas  
+- Handling missing values and encoding categories  
+- Training and testing ML models  
+- Evaluating model performance  
+- Deploying with **Streamlit** for a fun UI experience
 
 
 
