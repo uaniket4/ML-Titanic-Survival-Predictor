@@ -13,7 +13,7 @@ I wanted to:
 - Understand how models make predictions from real-world data
 - Try building something end-to-end and actually *see it work!*
 
-And what better dataset to start with than the famous [Titanic dataset](https://www.kaggle.com/c/titanic/data)? 🚢
+And what better dataset to start with than the famous [Titanic dataset](https://www.kaggle.com/c/titanic/data)? 
 
 
 
@@ -47,7 +47,7 @@ If you want to run the app:
 
 ### 1. Clone the repo
 
-git clone https://github.com/yourusername/ML-Titanic-Survival-Predictor.git
+git clone https://github.com/uaniket4/ML-Titanic-Survival-Predictor.git
 cd ML-Titanic-Survival-Predictor
 
 ### 2. Install the dependencies
